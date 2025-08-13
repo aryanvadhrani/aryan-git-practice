@@ -1,2 +1,2 @@
 # aryan-git-practice
-this is practice repo 
+this is practice repo.
